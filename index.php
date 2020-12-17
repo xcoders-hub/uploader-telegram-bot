@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL);
-require_once '../token.php';
+require_once 'token.php';
 $website = "https://api.telegram.org/bot" . $botToken;
 $update = file_get_contents("php://input");
 $updateArray = json_decode($update, TRUE);
