@@ -1,1 +1,1 @@
-$bot_token='';
+$botToken='1402953036:AAFeXGsYjn6K2y32H9o5g0Og5W1aLfe-LQU';
